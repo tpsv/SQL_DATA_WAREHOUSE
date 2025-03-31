@@ -50,7 +50,6 @@ SQL - For creating reports and dashboards based on analytical needs.
 Data Modeling - The foundation of dimensional modeling to enable high-performance querying.
 
 
-![image](https://github.com/user-attachments/assets/5764a54c-7afe-4465-8c25-e4ab412228e9)
-Repository Structure
+🏯Repository Structure
 
 ![image](https://github.com/user-attachments/assets/be747d06-6801-49a4-b2f2-0a59cab9b778)
